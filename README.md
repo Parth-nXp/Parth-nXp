@@ -2,6 +2,7 @@
 <h3 align="center">A passionate researcher from IIT Roorkee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-nxp&label=Profile%20views&color=0e75b6&style=flat" alt="parth-nxp" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif">
 
 - 🔭 I’m currently working on **Robustness Enhancement of PSO-Federeated Learning**
 
