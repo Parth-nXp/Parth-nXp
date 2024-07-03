@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://f.hubspotusercontent20.net/hubfs/7196770/wilson-blog-featured-01.jpg))]([https://rishavchanda.io](https://f.hubspotusercontent20.net/hubfs/7196770/wilson-blog-featured-01.jpg))
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiB-qWHu77S5rB_BuTjSKzYmE61lZ_mdtsRg&s)]([https://rishavchanda.io](https://f.hubspotusercontent20.net/hubfs/7196770/wilson-blog-featured-01.jpg))
 <h1 align="center"> नमस्ते! 👋, I'm Parth</h1>
 <h3 align="center">A passionate researcher from IIT Roorkee</h3>
 
