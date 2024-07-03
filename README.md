@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiB-qWHu77S5rB_BuTjSKzYmE61lZ_mdtsRg&s)]([https://rishavchanda.io](https://f.hubspotusercontent20.net/hubfs/7196770/wilson-blog-featured-01.jpg))
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQHJpQmdyLI8CA/article-cover_image-shrink_720_1280/0/1556697931606?e=1725494400&v=beta&t=0AbAiFnugs5t9tXJm5P_YmrS7vvHuSzIXAP0NQCkv_E)]([https://rishavchanda.io](https://f.hubspotusercontent20.net/hubfs/7196770/wilson-blog-featured-01.jpg))
 <h1 align="center"> नमस्ते! 👋, I'm Parth</h1>
 <h3 align="center">A passionate researcher from IIT Roorkee</h3>
 
