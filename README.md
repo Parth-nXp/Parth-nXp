@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-nxp&label=Profile%20views&color=0e75b6&style=flat" alt="parth-nxp" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif">
 
-- 🔭 I’m currently working on **Robustness Enhancement of PSO-Federeated Learning**
+- 🔭 I’m currently working on **Distributed Learning**
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision.**
 
 - 👯 I’m looking to collaborate on **Distributed Optimization**
 
-- 💬 Ask me about **Stochastic Gradient Descent (SGD), Distributed Optimization, Sparsity & Regularization**
+- 💬 Ask me about **Distributed Model Training, Decentralized AI, Computer Vision**
 
 - 📫 How to reach me **parth.sharma.nith@gmail.com**
 
